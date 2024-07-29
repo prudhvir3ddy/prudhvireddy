@@ -1,19 +1,19 @@
 button {
-    margin-top: 10px;
-    margin-right: 20px;
-    margin-bottom: 30px;
-    position:absolute;
-    top:0;
-    right:0;
-    font-size: xx-large;
-    background: none;
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: xx-large;
+  background: none;
 }
 
 body {
-    padding: 2rem;
+  padding: 2rem;
 }
-  
+
 .dark-mode {
-    background-color: black;
-    color: white;
+  background-color: black;
+  color: white;
 }
