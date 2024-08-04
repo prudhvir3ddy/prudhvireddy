@@ -4,4 +4,4 @@ function toggleDarkMode() {
   document.documentElement.setAttribute("data-bs-theme", newTheme);
 }
 
-setInterval(toggleDarkMode, 100);
+setInterval(toggleDarkMode, 1000);
