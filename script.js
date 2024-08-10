@@ -3,5 +3,3 @@ function toggleDarkMode() {
   const newTheme = currentTheme === "dark" ? "light" : "dark";
   document.documentElement.setAttribute("data-bs-theme", newTheme);
 }
-
-setInterval(toggleDarkMode, 1000);
