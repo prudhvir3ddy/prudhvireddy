@@ -1,10 +1,7 @@
 #dark-mode-btn {
-  margin-top: 10px;
-  margin-right: 20px;
-  margin-bottom: 30px;
-  margin-left: 200px;
+  margin: 10px 20px 30px 200px;
   position: absolute;
-  bottom: 0;
+  top: 0;
   right: 0;
   font-size: xx-large;
   background: none;
@@ -12,4 +9,19 @@
 
 body {
   padding: 2rem;
+}
+
+/* Add this to your style.css file */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
 }
