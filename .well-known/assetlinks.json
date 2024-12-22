@@ -1,9 +1,26 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.prudhvir3ddy.portfolio",
-    "sha256_cert_fingerprints":
-    ["68:72:1C:7E:15:CB:9C:F7:8E:00:49:D2:61:36:AF:79:F1:DC:D4:66:77:07:AF:0D:D0:0E:33:E6:D4:A5:8C:D9"]
-  }
-}]
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.prudhvir3ddy.portfolio",
+            "sha256_cert_fingerprints": [
+                "68:72:1C:7E:15:CB:9C:F7:8E:00:49:D2:61:36:AF:79:F1:DC:D4:66:77:07:AF:0D:D0:0E:33:E6:D4:A5:8C:D9"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.prudhvir3ddy.portfolio",
+            "sha256_cert_fingerprints": [
+                "A5:FB:03:71:51:64:7B:C9:BB:E8:EA:C1:50:E5:A0:5A:78:46:51:D0:01:36:D4:94:EE:D4:89:92:8E:B5:89:BC"
+            ]
+        }
+    }
+]
